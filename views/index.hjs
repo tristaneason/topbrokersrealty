@@ -129,7 +129,7 @@
           <p class="slogan">Service you trust and results you bank, since 1986.</p>
           <hr>
           <h4 class="option-1">Call Us Directly</h4>
-          <p>Call <a class="phone-text" href="tel:7274883873">727-488-3873</a> directly during normal business hours and we will answer your call directly.</p>
+          <p>Call <a class="phone-text" href="tel:7274883873">727-488-3873</a> directly during normal business hours.</p>
           <h4 class="option-2">Have Us Call You Back</h4>
           <p>Have us call you back by providing your name and callback number in the form below to discuss commercial real estate for Spring Hill, Florida and surrounding areas.</p>
           <form method="POST" action="http://formspree.io/tristaneason@protonmail.com">
