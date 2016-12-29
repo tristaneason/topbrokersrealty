@@ -14,7 +14,7 @@ express()
   .use(bodyParser.json())
   .use(bodyParser.urlencoded({ extended: false }))
   .get("/", (req, res, next) => {
-    res.render("index")
+    res.render("home")
   })
   .get("/privacy-policy", (req, res, next) => {
     res.render("privacy")
