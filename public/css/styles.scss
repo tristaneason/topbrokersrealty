@@ -132,7 +132,7 @@ a {
   a {
     color: $lightblue;
     &:hover {
-      color: lighten($lightblue, 10%)
+      color: lighten($lightblue, 10%);
     }
   }
   h3 {
@@ -171,6 +171,14 @@ a {
       width: 60%;
       @media (min-width: 768px) {
         width: 100%;
+      }
+      &.btn-danger {
+        background-color: $red;
+        border: $red;
+        &:hover {
+          background-color: lighten($red, 10%);
+          border: lighten($red, 10%);
+        }
       }
     }
   }

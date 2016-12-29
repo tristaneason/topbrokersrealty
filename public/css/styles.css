@@ -130,6 +130,12 @@ a {
       @media (min-width: 768px) {
         .contact form button {
           width: 100%; } }
+      .contact form button.btn-danger {
+        background-color: #aa1f26;
+        border: #aa1f26; }
+        .contact form button.btn-danger:hover {
+          background-color: #d52730;
+          border: #d52730; }
   @media (min-width: 768px) {
     .contact .links {
       bottom: 1em;

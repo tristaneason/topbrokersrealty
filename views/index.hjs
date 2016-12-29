@@ -135,7 +135,7 @@
           <form method="POST" action="http://formspree.io/tristaneason@protonmail.com">
             <input class="form-control" type="name" name="name" placeholder="Your name" required>
             <input class="form-control" type="phone" name="phone" placeholder="Callback number" required>
-            <button class="btn btn-success type="submit">Send</button>
+            <button class="btn btn-danger type="submit">Send</button>
           </form>
           <div class="links">
             <span class="website-by">Website by <a href="http://tristaneason.com" target="_blank">Tristan Eason</a>.</span>
