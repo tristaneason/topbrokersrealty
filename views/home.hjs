@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Commercial real estate for Spring Hill, Florida and surrounding areas provided by Top Brokers Realty, the best solution for sales, leasing, investments, and commercial real estate.">
+    <title>Top Brokers Realty &mdash; Spring Hill Florida Commercial Real Estate</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,700" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="container-fluid main">
+      <div class="row intro" id="intro">
+        <div class="col-sm-9">
+          <img class="img-responsive logo" src="/topbrokersrealty-logo.png">
+          <h1>Top Brokers Realty<sup>&reg;</sup></h1>
+          <h2>Commercial Real Estate for Spring Hill, Florida and Surrounding Areas</h2>
+          <h2 class="slogan">Service you trust and results you bank since 1986.</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row about" id="about">
+        <div class="col-sm-9">
+          <div class="row">
+            <div class="col-sm-6">
+              <h3>Why Choose Us</h3>
+              <p>With an international network of top professionals, we achieve the results you desire. We work hard, and smart, using the very latest data and technology to achieve optimum results. This translates into <strong>service you trust and results you bank</strong>. We are relationship professionals so we work each and every assignment to earn your respect and your business for life. Our consultations are free and confidential. What are your needs?</p>
+            </div>
+            <div class="col-sm-6">
+              <h3>Our Staff</h3>
+              <p>Our staff has over 30 years of professional experience as principals, brokers, and investors. Mr. Kervin, our Broker Associate, has an undergraduate degree in Economics from Methodist University and a graduate degree from the University of Oklahoma. He has extensive real estate and financial market experience and has represented customers on a national scale as an advisor, broker, and consultant.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="row credentials" id="credentials">
+        <div class="col-sm-9">
+          <h3>Our Credentials and Services</h3>
+          <div class="row credential-item">
+            <h4>Brokerage</h4>
+            <p>We have outstanding real estate professionals and market your property with maximum exposure to qualified buyers and close on schedule.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Financing, Refinancing and Loan Workouts</h4>
+            <p>We work with institutional lenders, private equity firms, and private investors to get you the best rate and terms for your loan. We specialize in developing solutions for nonperforming or under-performing assets.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Tenant Representation</h4>
+            <p>Our goal is to secure the property that supports your business success. The best location, the right size for ??? future growth, and at the best price.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Portfolio Management</h4>
+            <p>We use advanced techniques to analyze your portfolio and align it to improve profitability and reduce risk, including indentification of underperforming or nonperforming assets.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Foreign Investor Services</h4>
+            <p>We serve the needs of foreign investors wishing to purchase Florida real estate assets. Investors depend on us for reliable advice and professional real estate services. We work closely with top legal and financial talent to ensure foreign investors are fully protected.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Auction Services for Property and Real Estate Notes</h4>
+            <p>Through an affiliation with top auction companies, we acquire and dispose of properties and notes. Our buyers have cash on deposit and their assets have been verified. Closings times are condensed with a near certainty of execution. Sellers have the option to set a reserve price.</p>
+          </div>
+          <div class="row credential-item">
+              <h4>Business Brokerage</h4>
+              <p>We lease and sell businesses that own the real estate, whether it is a product business or service business.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Property Management</h4>
+            <p>We aggressively market properties to find quality tenants and then establish and maintain a relationship to keep them.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Advisory and Consulting</h4>
+            <p>Confidential and comprehensive communications build relationships of trust based on performance. Your needs and desires are our only objectives.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Investments</h4>
+            <p>We use our collective wisdom, advanced research tools, detailed financial analysis, and years of experience to ensure your investment is a sound one, both now and in the future.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Expert Witness</h4>
+            <p>We are comfortable and capable of addressing complex real estate issues in court for the prosecution or defense.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Corporate Services</h4>
+            <p>Our fee-based and commission-based services maximize the value of your real estate assets.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Specialty Use Properties</h4>
+            <p>We provide a full menu of services to reposition, acquire or dispose of specialty use properties with a single use.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Site Selection</h4>
+            <p>Our team locates the best available site for your product or service at the best possible price for the long-term success of your business.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Government Relations</h4>
+            <p>Few things are more important to ensure that a property achieves its full profit potential than the proper and timely execution of required government actions.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Broker Price Opinions</h4>
+            <p>We perform fee-based broker price opinions for property owners, lenders, attorneys, and other parties, using the most advanced tools to achieve dependable results that exceed industry standards.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>REO Services</h4>
+            <p>We are a full service real estate firm offering a full menu of REO services for lenders, loan servicers, and other parties. We offer a flexible package of services customized to meet your specific needs.</p>
+          </div>
+          <div class="row credential-item">
+            <h4>Co-Broke Sales and Listing</h4>
+            <p>We cooperate with top brokers worldwide. To speak with an experienced professional, call today at <a href="tel:7274883873">727-488-3873</a> or send us a message below.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row proudly" id="proudly">
+        <div class="col-sm-9">
+          <h4>Proudly serving Spring Hill, Florida and the surrounding areas.</h4>
+        </div>
+      </div>
+
+      <div class="row contact" id="contact">
+        <div class="col-sm-3 sidebar">
+          <h3>Contact</h3>
+          <span class="name">Top Kervin, MPA, Broker</span>
+          <p class="slogan">Service you trust and results you bank, since 1986.</p>
+          <hr>
+          <h4 class="option-1">Call Us Directly</h4>
+          <p>Call <a class="phone-text" href="tel:7274883873">727-488-3873</a> directly during normal business hours.</p>
+          <h4 class="option-2">Have Us Call You Back</h4>
+          <p>Have us call you back by providing your name and callback number in the form below to discuss commercial real estate for Spring Hill, Florida and surrounding areas.</p>
+          <form method="POST" action="http://formspree.io/top@cox.net">
+            <input class="form-control" type="name" name="name" placeholder="Your name" required>
+            <input class="form-control" type="phone" name="phone" placeholder="Callback number" required>
+            <button class="btn btn-danger type="submit">Send</button>
+          </form>
+          <div class="links">
+            <span class="website-by">Website by <a href="http://tristaneason.com" target="_blank">Tristan Eason</a>.</span>
+            <span class="privacy-link"><a href="/privacy-policy">Privacy Policy</a>.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
