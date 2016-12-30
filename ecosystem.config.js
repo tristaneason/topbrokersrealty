@@ -24,7 +24,7 @@ module.exports = {
    */
   deploy : {
     production : {
-      user : "node",
+      user : "teason",
       host : "44.55.212.133",
       ref  : "origin/master",
       repo : "https://github.com/tristaneason/topbrokersrealty.git",
