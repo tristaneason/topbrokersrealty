@@ -9,9 +9,6 @@ module.exports = {
     {
       name      : "topbrokersrealty",
       script    : "server.js",
-      env_staging : {
-        NODE_ENV: "staging"
-      },
       env_production : {
         NODE_ENV: "production"
       }
