@@ -11,12 +11,12 @@
 
   deploy : {
     production : {
-      user : "teason",
+      user : "deploy",
       host : "45.55.212.133",
       ref  : "origin/master",
       repo : "https://github.com/tristaneason/topbrokersrealty.git",
       path : "/var/www/topbrokersrealty.com",
-      "post-deploy" : "nvm install && npm install && /home/teason/.nvm/versions/node/v7.2.1/bin/pm2 startOrRestart ecosystem.json --env production",
+      "post-deploy" : "nvm install && npm install && /home/deploy/.nvm/versions/node/v7.2.1/bin/pm2 startOrRestart ecosystem.json --env production",
       "forward-agent": "yes"
     }
   }
