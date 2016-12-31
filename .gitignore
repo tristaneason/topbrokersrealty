@@ -15,6 +15,7 @@ npm-debug.log*
 
 # Config Files
 ecosystem.config.js
+ecosystem.json
 
 # Miscenllaneous
 .DS_Store
