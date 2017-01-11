@@ -4,7 +4,12 @@
   "description": "Website for Top Brokers Realty of Spring Hill, Florida.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristaneason/topbrokersrealty.git"
   },
   "author": "Tristan Eason",
   "license": "ISC",
