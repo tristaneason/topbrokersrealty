@@ -28,11 +28,11 @@
           <div class="row">
             <div class="col-sm-6">
               <h3>Why Choose Us</h3>
-              <p>With an international network of top professionals, we achieve the results you desire. We work hard, and smart, using the very latest data and technology to achieve optimum results. This translates into <strong>service you trust and results you bank</strong>. We are relationship professionals so we work each and every assignment to earn your respect and your business for life. Our consultations are free and confidential. What are your needs?</p>
+              <p>With an international network of top professionals, we achieve the results you desire. We work hard, and smart, using the very latest data and technology to achieve optimum results. This translates into <strong>service you trust and results you bank</strong>. We are relationship professionals so we work each and every assignment to earn your trust and your business for life. Our consultations are free and confidential. What are your needs?</p>
             </div>
             <div class="col-sm-6">
               <h3>Our Staff</h3>
-              <p>Our staff has over 30 years of professional experience as principals, brokers, and investors. Mr. Kervin, our Broker Associate, has an undergraduate degree in Economics from Methodist University and a graduate degree from the University of Oklahoma. He has extensive real estate and financial market experience and has represented customers on a national scale as an advisor, broker, and consultant.</p>
+              <p>Our staff has over 30 years of professional experience as principals, brokers, and investors. Mr. Kervin, our Broker, has an undergraduate degree in Economics from Methodist University and a graduate degree from the University of Oklahoma. He has extensive real estate and financial market experience and has represented customers on a national scale as an advisor, broker, and consultant.</p>
             </div>
           </div>
         </div>
@@ -43,7 +43,7 @@
           <h3>Our Credentials and Services</h3>
           <div class="row credential-item">
             <h4>Brokerage</h4>
-            <p>We have outstanding real estate professionals and market your property with maximum exposure to qualified buyers and close on schedule.</p>
+            <p>We have outstanding real estate professionals who market your property for maximum exposure to qualified buyers, and close on schedule.</p>
           </div>
           <div class="row credential-item">
             <h4>Financing, Refinancing and Loan Workouts</h4>
@@ -51,11 +51,11 @@
           </div>
           <div class="row credential-item">
             <h4>Tenant Representation</h4>
-            <p>Our goal is to secure the property that supports your business success. The best location, the right size for ??? future growth, and at the best price.</p>
+            <p>Our goal is to secure the property that supports your business success. The best location, the right size for now and future growth, and at the best price.</p>
           </div>
           <div class="row credential-item">
             <h4>Portfolio Management</h4>
-            <p>We use advanced techniques to analyze your portfolio and align it to improve profitability and reduce risk, including indentification of underperforming or nonperforming assets.</p>
+            <p>We use advanced techniques to analyze your portfolio and align it to improve profitability and reduce risk, including disposition of nonperforming assets.</p>
           </div>
           <div class="row credential-item">
             <h4>Foreign Investor Services</h4>
@@ -63,11 +63,11 @@
           </div>
           <div class="row credential-item">
             <h4>Auction Services for Property and Real Estate Notes</h4>
-            <p>Through an affiliation with top auction companies, we acquire and dispose of properties and notes. Our buyers have cash on deposit and their assets have been verified. Closings times are condensed with a near certainty of execution. Sellers have the option to set a reserve price.</p>
+            <p>Through an affiliation with top auction companies, we acquire and dispose of properties and notes. Our buyers have cash on deposit and their assets have been verified. Sellers have the option to set a reserve price.</p>
           </div>
           <div class="row credential-item">
-              <h4>Business Brokerage</h4>
-              <p>We lease and sell businesses that own the real estate, whether it is a product business or service business.</p>
+            <h4>Business Brokerage</h4>
+            <p>We sell businesses that own the real estate, whether it is a product business or service business.</p>
           </div>
           <div class="row credential-item">
             <h4>Property Management</h4>
@@ -99,7 +99,7 @@
           </div>
           <div class="row credential-item">
             <h4>Government Relations</h4>
-            <p>Few things are more important to ensure that a property achieves its full profit potential than the proper and timely execution of required government actions.</p>
+            <p>Few things are more important to ensure that a property achieves its full profit potential than the proper and timely execution of government actions to enhance the value of your property.</p>
           </div>
           <div class="row credential-item">
             <h4>Broker Price Opinions</h4>
@@ -111,7 +111,7 @@
           </div>
           <div class="row credential-item">
             <h4>Co-Broke Sales and Listing</h4>
-            <p>We cooperate with top brokers worldwide. To speak with an experienced professional, call today at <a href="tel:7274883873">727-488-3873</a> or send us a message below.</p>
+            <p>We cooperate with top brokers worldwide.</p>
           </div>
         </div>
       </div>
@@ -131,7 +131,7 @@
           <h4 class="option-1">Call Us Directly</h4>
           <p>Call <a class="phone-text" href="tel:7274883873">727-488-3873</a> directly during normal business hours.</p>
           <h4 class="option-2">Have Us Call You Back</h4>
-          <p>Have us call you back by providing your name and callback number in the form below to discuss commercial real estate for Spring Hill, Florida and surrounding areas.</p>
+          <p>Have us call you back by providing your name and callback number in the form below.</p>
           <form method="POST" action="http://formspree.io/tbrcommercial@gmail.net">
             <input class="form-control" type="name" name="name" placeholder="Your name" required>
             <input class="form-control" type="phone" name="phone" placeholder="Callback number" required>
