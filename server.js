@@ -20,3 +20,4 @@ express()
     res.render("privacy")
   })
   .listen(3000)
+  
