@@ -132,7 +132,7 @@
           <p>Call <a class="phone-text" href="tel:7274883873">727-488-3873</a> directly during normal business hours.</p>
           <h4 class="option-2">Have Us Call You Back</h4>
           <p>Have us call you back by providing your name and callback number in the form below.</p>
-          <form method="post" action="/send-info">
+          <form method="post" action="/">
             <input class="form-control" type="name" name="name" placeholder="Your name" required>
             <input class="form-control" type="phone" name="phone" placeholder="Callback number" required>
             <button class="btn btn-danger type="submit">Send</button>
