@@ -33,20 +33,10 @@ router
     transporter.sendMail(mailOptions, (error, info) => {
       if(error) {
         console.log(error)
-        res.render("home", {
-          title: "Top Brokers Realty — Contact",
-          msg: "Error occured, message not sent.",
-          err: true,
-          page: "send-info"
-        })
+        res.render("home")
       }
       else {
-        res.render("home", {
-          title: "Top Brokers Realty — Contact",
-          msg: "Message sent! Thank you.",
-          err: false,
-          page: "contact"
-        })
+        res.render("home")
       }
     })
   })
