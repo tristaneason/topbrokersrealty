@@ -15,4 +15,4 @@ npm-debug.log*
 *.psd
 
 # Miscenllaneous
-.DS_Store
+*.DS_Store
